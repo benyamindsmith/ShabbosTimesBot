@@ -9,7 +9,7 @@ The following commands will all get the candlelighting times for this week:
 * `!ShabbosTimes [city]`
 * `!shabbostimes [city]`
 * `!ShabbatTimes [city]`
-* `!shabbostimes [city]`
+* `!shabbattimes [city]`
 
 To see the list of the availible cities that this can retrieve times for write `!cities`
 
