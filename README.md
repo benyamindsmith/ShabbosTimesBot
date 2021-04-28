@@ -1,4 +1,4 @@
-# 🕯Shabbos Times Discord Bot🕯
+# Shabbos Times Discord Bot
 
 ![](https://www.theyeshivaworld.com/wp-content/uploads/2019/05/Shabbos-696x465.jpg)
 
